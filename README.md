@@ -47,9 +47,7 @@ RAG Pipeline (LangChain)
 | Frontend | React 18 |
 | Deployment | Docker + Docker Compose |
 
-> **Note:** Anthropic does not provide an embeddings API.
-> OpenAI embeddings are used only for vector search (very cheap ~$0.00002/1k tokens).
-> The LLM (answering questions) is 100% Claude.
+
 
 ---
 
